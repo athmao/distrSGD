@@ -1,0 +1,70 @@
+Waf: Entering directory `/home/alexander/Documents/ns3/workspace/bake/source/ns-3.29/build'
+[2734/2813] Compiling scratch/cs268/cs268.cc
+[2769/2813] Linking build/scratch/cs268/cs268
+Waf: Leaving directory `/home/alexander/Documents/ns3/workspace/bake/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (18.271s)
+1.01432: Server #7 broadcasts parameter update
+1.01916: Server #0 broadcasts parameter update
+2.75229: Server #0 broadcasts parameter update
+2.86504: Server #7 broadcasts parameter update
+4.00881: Server #1 broadcasts parameter update
+4.00917: Server #6 broadcasts parameter update
+4.01118: Server #5 broadcasts parameter update
+4.04221: Server #2 broadcasts parameter update
+4.0683: Server #4 broadcasts parameter update
+4.09861: Server #3 broadcasts parameter update
+4.75236: Server #7 broadcasts parameter update
+6.6704: Server #5 broadcasts parameter update
+6.69713: Server #6 broadcasts parameter update
+7.03011: Server #3 broadcasts parameter update
+7.59684: Server #4 broadcasts parameter update
+7.60686: Server #7 broadcasts parameter update
+7.68026: Server #0 broadcasts parameter update
+9.39653: Server #5 broadcasts parameter update
+9.44922: Server #6 broadcasts parameter update
+10.2655: Server #4 broadcasts parameter update
+10.8535: Server #0 broadcasts parameter update
+11.196: Server #7 broadcasts parameter update
+11.3128: Server #3 broadcasts parameter update
+11.357: Server #1 broadcasts parameter update
+12.0597: Server #6 broadcasts parameter update
+12.9754: Server #5 broadcasts parameter update
+13.7591: Server #4 broadcasts parameter update
+13.8272: Server #1 broadcasts parameter update
+14.4127: Server #6 broadcasts parameter update
+14.5361: Server #7 broadcasts parameter update
+14.704: Server #2 broadcasts parameter update
+14.9122: Server #0 broadcasts parameter update
+16.7325: Server #5 broadcasts parameter update
+16.755: Server #6 broadcasts parameter update
+16.8787: Server #3 broadcasts parameter update
+17.4557: Server #4 broadcasts parameter update
+17.4688: Server #0 broadcasts parameter update
+17.7367: Server #1 broadcasts parameter update
+18.0913: Server #7 broadcasts parameter update
+18.966: Server #2 broadcasts parameter update
+19.1204: Server #6 broadcasts parameter update
+20.025: Server #5 broadcasts parameter update
+20.5272: Server #0 broadcasts parameter update
+21.0278: Server #3 broadcasts parameter update
+21.2383: Server #4 broadcasts parameter update
+21.3578: Server #6 broadcasts parameter update
+21.6923: Server #7 broadcasts parameter update
+22.544: Server #2 broadcasts parameter update
+22.5999: Server #5 broadcasts parameter update
+22.7258: Server #1 broadcasts parameter update
+24.2117: Server #6 broadcasts parameter update
+24.3273: Server #4 broadcasts parameter update
+24.3696: Server #0 broadcasts parameter update
+24.4235: Server #3 broadcasts parameter update
+25.9187: Server #6 broadcasts parameter update
+26.2169: Server #1 broadcasts parameter update
+26.3686: Server #5 broadcasts parameter update
+26.5386: Server #7 broadcasts parameter update
+27.693: Server #4 broadcasts parameter update
+28.1406: Server #6 broadcasts parameter update
+28.6871: Server #7 broadcasts parameter update
+28.8172: Server #3 broadcasts parameter update
+29.232: Server #2 broadcasts parameter update
+29.8789: Server #0 broadcasts parameter update

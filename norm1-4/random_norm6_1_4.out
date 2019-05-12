@@ -1,0 +1,55 @@
+Waf: Entering directory `/home/alexander/Documents/ns3/workspace/bake/source/ns-3.29/build'
+Waf: Leaving directory `/home/alexander/Documents/ns3/workspace/bake/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (11.464s)
+4.00378: Server #4 broadcasts parameter update
+4.00429: Server #3 broadcasts parameter update
+4.00637: Server #0 broadcasts parameter update
+4.01135: Server #5 broadcasts parameter update
+4.01354: Server #6 broadcasts parameter update
+4.01369: Server #2 broadcasts parameter update
+4.01414: Server #1 broadcasts parameter update
+4.0163: Server #7 broadcasts parameter update
+7.93712: Server #2 broadcasts parameter update
+8.15031: Server #6 broadcasts parameter update
+8.33978: Server #3 broadcasts parameter update
+8.35984: Server #4 broadcasts parameter update
+8.93169: Server #1 broadcasts parameter update
+9.71584: Server #7 broadcasts parameter update
+9.8763: Server #0 broadcasts parameter update
+10.285: Server #5 broadcasts parameter update
+12.0094: Server #4 broadcasts parameter update
+12.0676: Server #2 broadcasts parameter update
+12.1386: Server #6 broadcasts parameter update
+12.9093: Server #5 broadcasts parameter update
+14.3714: Server #0 broadcasts parameter update
+15.1874: Server #6 broadcasts parameter update
+15.7022: Server #3 broadcasts parameter update
+15.9574: Server #1 broadcasts parameter update
+16.036: Server #4 broadcasts parameter update
+16.1474: Server #2 broadcasts parameter update
+16.9739: Server #7 broadcasts parameter update
+18.4446: Server #6 broadcasts parameter update
+18.8573: Server #5 broadcasts parameter update
+19.2205: Server #4 broadcasts parameter update
+19.3378: Server #0 broadcasts parameter update
+19.6007: Server #2 broadcasts parameter update
+19.9808: Server #7 broadcasts parameter update
+20.8987: Server #1 broadcasts parameter update
+22.7765: Server #2 broadcasts parameter update
+22.8028: Server #4 broadcasts parameter update
+22.9619: Server #3 broadcasts parameter update
+23.1003: Server #0 broadcasts parameter update
+23.8079: Server #6 broadcasts parameter update
+23.9221: Server #5 broadcasts parameter update
+24.9178: Server #1 broadcasts parameter update
+25.3748: Server #7 broadcasts parameter update
+26.119: Server #2 broadcasts parameter update
+26.1337: Server #4 broadcasts parameter update
+26.8748: Server #0 broadcasts parameter update
+27.0326: Server #6 broadcasts parameter update
+28.0302: Server #3 broadcasts parameter update
+28.6276: Server #7 broadcasts parameter update
+28.9974: Server #2 broadcasts parameter update
+29.0949: Server #4 broadcasts parameter update
+29.5406: Server #5 broadcasts parameter update
